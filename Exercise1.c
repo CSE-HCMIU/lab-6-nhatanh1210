@@ -10,6 +10,7 @@
 #include <stdlib.h>
 
 int ex1(int testcase){
+//*input your code
 	int n,m,i, a[size];
 	printf("Enter number: ");
 	scanf("%d", &n);
