@@ -11,9 +11,7 @@
 
 int ex1(int testcase){
 //*input your code
-	int n,m,i, a[size];
-	printf("Enter number: ");
-	scanf("%d", &n);
+	int n = testcase,m,i, a[size];
     for (i=0; i<4; i++)
     {
     	a[i] = n%10;
