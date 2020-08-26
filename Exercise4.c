@@ -38,15 +38,6 @@ int ex4(char *testcase){
    return 0;
 }
 
-int main(int argc, char *argv[]) {
-	//testing variable, applying it to your algorithm for auto-evaluating
-	char *testcase = "  this  is an   unformatted  string ";
-
-	ex4(testcase);
-		
-	return 0;
-}
-}
 
 int main(int argc, char *argv[]) {
 	//testing variable, applying it to your algorithm for auto-evaluating
