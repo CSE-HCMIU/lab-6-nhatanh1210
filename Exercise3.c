@@ -48,12 +48,3 @@ int main(int argc, char *argv[]) {
 		
 	return 0;
 }
-
-int main(int argc, char *argv[]) {
-	//testing variable, applying it to your algorithm for auto-evaluating
-	char *str = "This is a string";
-
-	ex3(str);
-		
-	return 0;
-}
